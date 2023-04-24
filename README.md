@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Claude Ishimwe
 ======================================================================================================================================
 
-I am a web at night and a manual labour at night. working in different gigs, trying to make some money.
+I am a back-end web developer 
 
 * 🌍  I'm based in KG 28 Ave, Kigali Rwanda
 * ✉️  You can contact me at [dpqb12haikuo@gmail.com](mailto:dpqb12haikuo@gmail.com)
