@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Claude Ishimwe
 ======================================================================================================================================
 
-I am a back-end web developer 
+I am a Web Developer 
 
-* 🌍  I'm based in KG 28 Ave, Kigali Rwanda
+* 🌍  I'm based in KG 308 Ave, Kigali - Rwanda
 * ✉️  You can contact me at [dpqb12haikuo@gmail.com](mailto:dpqb12haikuo@gmail.com)
 * 🧠  I'm learning React and React Native
-* ⚡  I'm a certified movie watcher.
+* ⚡  I'm a certified Back-end developer.
 
 ### Skills
 
